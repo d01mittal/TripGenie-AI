@@ -1,4 +1,4 @@
-# TripGenie AI
+# TripGenie AI!
 
 An intelligent trip planning app powered by **LangGraph**, **Google Gemini API**, **Tavily API**, and **Wikipedia**.  
 This system uses multiple specialized agents (research, flights, hotels, weather, activities, itinerary) orchestrated via LangGraph to design a personalized travel itinerary.  
